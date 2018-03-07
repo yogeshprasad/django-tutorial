@@ -1,0 +1,6 @@
+cd to
+/Users/ykurmi/data/django/tutorial
+
+start the server
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3 manage.py runserver
+
